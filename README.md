@@ -25,8 +25,7 @@
 ### :fire: Статистика:
 
 <div id="stats" >
-  <p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact)
+ <p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact)</p>
   <a><img src="https://www.codewars.com/users/Kal1Vane/badges/small" alt="codewars"></a>
 </div>
 
