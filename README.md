@@ -22,6 +22,13 @@
   <img height="40px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
+### :fire: Статистика:
+
+<div id="stats" >
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact)](https://github.com/Kal1Vane/github-readme-stats)
+  [![codewars](https://www.codewars.com/users/Kal1Vane/badges/small)](https://www.codewars.com/users/Kal1Vane) 
+</div>
+
 ####  Connect with me:
 <section>
   <a href="mailto:http://kal1vane.job@gmail.com/">
