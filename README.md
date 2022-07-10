@@ -25,8 +25,12 @@
 ### :fire: Статистика:
 
 <div id="stats" >
- <p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact)</p>
-  <a><img src="https://www.codewars.com/users/Kal1Vane/badges/small" alt="codewars"></a>
+  <a href="https://www.codewars.com/users/Kal1Vane">
+   <img src="https://www.codewars.com/users/Kal1Vane/badges/small" alt="codewars">
+ </a>
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact" alt="github-info" >
+ </div>
 </div>
 
 ####  Connect with me:
