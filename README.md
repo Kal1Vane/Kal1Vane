@@ -25,8 +25,9 @@
 ### :fire: Статистика:
 
 <div id="stats" >
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact)](https://github.com/Kal1Vane/github-readme-stats)
-  [![codewars](https://www.codewars.com/users/Kal1Vane/badges/small)](https://www.codewars.com/users/Kal1Vane) 
+  <p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal1Vane&layout=compact)
+  <a><img src="https://www.codewars.com/users/Kal1Vane/badges/small" alt="codewars"></a>
 </div>
 
 ####  Connect with me:
