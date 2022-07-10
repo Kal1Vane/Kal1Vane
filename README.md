@@ -21,7 +21,7 @@
   <img height="40px" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
   <img height="40px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
-#### Connect with me:
+###  Connect with me:
 <section>
   <a href="mailto:http://kal1vane.job@gmail.com/">
     <img align="left" width="40px" src="https://cdn1.iconfinder.com/data/icons/business-finance-vol-3-39/512/mailbox_mail_post_email-128.png" />
